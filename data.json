@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Md Yeasin Rifat",
+      "age": 30,
+      "email": "rifat@gmail.comn",
+      "section": "C"
+    },
+    {
+      "id": 2,
+      "name": "Abdullah tushar",
+      "age": 25,
+      "email": "Abdullah@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 3,
+      "name": "Afreen meem",
+      "age": 28,
+      "email": "Afreen@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 4,
+      "name": "Nayna",
+      "age": 35,
+      "email": "Nayna@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 5,
+      "name": "Rabeya Akter",
+      "age": 22,
+      "email": "rabeya@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 6,
+      "name": "Fabiha Alam",
+      "age": 27,
+      "email": "Fabiha@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 7,
+      "name": " Rakib",
+      "age": 40,
+      "email": "Rakib@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 8,
+      "name": "Faisal Ahmed",
+      "age": 33,
+      "email": "Faisal@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 9,
+      "name": "Nayon Mahmud",
+      "age": 29,
+      "email": "nayon@gmail.com",
+      "section": "C"
+    },
+    {
+      "id": 10,
+      "name": "Ibrahim Khalil",
+      "age": 31,
+      "email": "ibrahim@gmail.com",
+      "section": "C"
+    }
+  ]
+  
